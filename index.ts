@@ -2,7 +2,7 @@ import { readdirSync } from "fs";
 
 import express from "express";
 
-const app: express.Application = express();
+const app = express();
 
 const port: number = Number(process.env.PORT) || 8080;
 
