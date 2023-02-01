@@ -24,3 +24,4 @@ Just a simple api made in Typescript which use local directory
 ## License
 
 > Directory-API is free and open-source api licensed under the [MIT](https://github.com/RaySenpai69/DIrectory-API/blob/main/LICENSE)
+
