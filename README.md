@@ -16,7 +16,7 @@ Just a simple api made in Typescript which use local directory
 ## Preview Info
 
 > Written in [TypeScript](https://www.typescriptlang.org/) </br>
-> Powered by [ExpressJs](https://expressjs.com/) </br>
+> Powered by [Fastify](https://www.fastify.io/) </br>
 > Inspired from [AliAryanTech](https://github.com/AliAryanTech/Directory-API)</br>
 
 ---
